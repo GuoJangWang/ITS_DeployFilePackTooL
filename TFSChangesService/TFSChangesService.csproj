@@ -13,4 +13,10 @@
     <PackageReference Include="System.Management.Automation" Version="7.2.9" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Config.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
