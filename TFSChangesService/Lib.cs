@@ -63,7 +63,7 @@ namespace TFSChangesService
                 {
                     Console.WriteLine(filelist);
                     var sourceFolderPath = Path.Combine(sourceRoot, filelist);
-                    var targetFolderPath = Path.Combine(targetRoot, filelist.Replace(filelist.Split('/').Last(), ""));
+                    var targetFolderPath = Path.Combine(targetRoot, filelist.Replace(filelist.Split('\\').Last(), ""));
                     var targetFullPath = Path.Combine(targetRoot, filelist);
                     if (Directory.Exists(targetFolderPath) == false)
                     {

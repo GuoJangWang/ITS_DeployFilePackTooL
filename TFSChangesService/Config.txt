@@ -1,4 +1,4 @@
-﻿來源根目錄=D:\VS專案\TFS_ITS
+﻿來源根目錄=D:\VS專案\TFS_ITS\MPC\MPC_ITS_Dev
 目的地根目錄=D:\ITSOWER\包版
 程式清單根目錄=D:\OneDrive\元威資訊科技股份有限公司\BOP_板信商業銀行 - BOP_多元支付代收整合平台 - BOP_多元支付代收整合平台\19_歷次更版程式及文件\2022新版Source Code
 程式清單資料夾=20230224_2
